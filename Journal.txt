@@ -2,7 +2,7 @@ Mardi 13 Mai 2025 :
 - Constatation : La librairie "face_recognition" n'est plus à jour et inutilisable.
 - Recherche de nouvelles AI / librairies de détection faciale et de reconnaissance faciale : OpenCV.
 - Recherche sur le fonctionnement de la reconnaissance faciale.
-- Premier test de détéction faciale sur un groupe de personne (réussi).
+- Premier test de détection faciale sur un groupe de personne (réussi).
 
 
 Mercredi 14 Mai 2025 : 
