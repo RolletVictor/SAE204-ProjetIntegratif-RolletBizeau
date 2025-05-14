@@ -3,3 +3,11 @@ Mardi 13 Mai 2025 :
 - Recherche de nouvelles AI / librairies de détection faciale et de reconnaissance faciale : OpenCV.
 - Recherche sur le fonctionnement de la reconnaissance faciale.
 - Premier test de détéction faciale sur un groupe de personne (réussi).
+
+
+Mercredi 14 Mai 2025 : 
+- La lib face_recognition est enfaite utilisable mais très complexe à installer. Test à moitié concluant car le processus de calcul ne détecte qu'environ 50% des visages.
+- La lib dlib est assez performante mais demande trop de ressources pour notre utilisation.
+- On retiendra pour l'instant la lib OpenCV afin de detecter les visages.
+      A FAIRE A LA PROCHAINE SÉANCE : - Essayer d'optimiser face_recognition pour effectuer d'autres tests.
+                                      - Mettre en place l'algorithme de reconnaissance de personnes.
