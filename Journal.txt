@@ -15,4 +15,10 @@ Mercredi 14 Mai 2025 :
 
 Vendredi 23 Mai 2025 :
 - Mise en place et test de la reconnaissance de personnes.
+- Récupération photo d'élèves pour base de données
+
+
+Lundi 26 Mai 2025:
 - Optimisation du calcul des visages en utilisant un fichier avec tout les visages encodés.
+- Création base de données (csv)
+- Programme pour utiliser BDD + tests
