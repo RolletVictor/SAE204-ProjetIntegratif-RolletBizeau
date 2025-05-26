@@ -15,3 +15,4 @@ Mercredi 14 Mai 2025 :
 
 Vendredi 23 Mai 2025 :
 - Mise en place et test de la reconnaissance de personnes.
+- Optimisation du calcul des visages en utilisant un fichier avec tout les visages encodés.
