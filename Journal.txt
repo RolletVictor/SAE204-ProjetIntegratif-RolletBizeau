@@ -11,3 +11,7 @@ Mercredi 14 Mai 2025 :
 - On retiendra pour l'instant la lib OpenCV afin de detecter les visages.
       A FAIRE A LA PROCHAINE SÉANCE : - Essayer d'optimiser face_recognition pour effectuer d'autres tests.
                                       - Mettre en place l'algorithme de reconnaissance de personnes.
+
+
+Vendredi 23 Mai 2025 :
+- Mise en place et test de la reconnaissance de personnes.
