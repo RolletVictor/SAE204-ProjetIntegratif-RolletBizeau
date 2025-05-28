@@ -22,3 +22,9 @@ Lundi 26 Mai 2025:
 - Optimisation du calcul des visages en utilisant un fichier avec tout les visages encodés.
 - Création base de données (csv)
 - Programme pour utiliser BDD + tests
+
+
+Mardi 27 + Mercredi 28 Mai 2025 : 
+- Récupération des photos de classes des élèves (selon autorisation demandé et signé)
+- Amélioration de la base de données (csv) pour associer nom, prénom et photo de l'élève.
+
