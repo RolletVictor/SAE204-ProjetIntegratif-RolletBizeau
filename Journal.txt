@@ -28,3 +28,8 @@ Mardi 27 + Mercredi 28 Mai 2025 :
 - Récupération des photos de classes des élèves (selon autorisation demandé et signé)
 - Amélioration de la base de données (csv) pour associer nom, prénom et photo de l'élève.
 
+Mercredi 4 Juin 2025 :
+- Mise en commun des programmes
+- Listes élèves absents/présents effectuées
+- Programme presque terminé
+
